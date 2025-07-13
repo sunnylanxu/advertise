@@ -1,0 +1,17 @@
+ # Apple Intelligence / Siri / ChatGPT 调用相关域名 - 走代理
+DOMAIN-SUFFIX,gateway.icloud.com,proxy
+DOMAIN-SUFFIX,siri.apple.com,proxy
+DOMAIN-SUFFIX,data.apple.com,proxy
+DOMAIN-SUFFIX,dictation.apple.com,proxy
+DOMAIN-SUFFIX,configuration.apple.com,proxy
+DOMAIN-SUFFIX,api.apple-cloudkit.com,proxy
+DOMAIN-SUFFIX,chat.openai.com,proxy
+DOMAIN-SUFFIX,openai.com,proxy
+DOMAIN-SUFFIX,oaiusercontent.com,proxy
+DOMAIN-SUFFIX,fe.apple-dns.net,proxy
+DOMAIN-SUFFIX,content-cdn.apple.com,proxy
+DOMAIN-SUFFIX,prod.ls.apple.com,proxy
+
+# OpenAI 可能用到的 Cloudflare 域名
+DOMAIN-SUFFIX,cloudflare.com,proxy
+DOMAIN-SUFFIX,cloudflareinsights.com,proxy
