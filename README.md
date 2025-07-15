@@ -1,2 +1,1 @@
-[Rule]
-HOST-SUFFIX,cnbj1.fds.api.mi-img.com,REJECT
+去广告
