@@ -1,1 +1,11 @@
 
+[Name]
+携程去广告自定义
+
+[Rewrite]
+# > XieCheng
+^https:\/\/ma-adx\.ctrip\.com\/_ma\.gif url reject
+^https:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare url reject
+
+[MITM]
+hostname = ma-adx.ctrip.com, mbd.baidu.com
