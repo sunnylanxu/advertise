@@ -1,0 +1,12 @@
+# Apple系统更新分流
+
+[filter_local]
+host, ns.itunes.apple.com, REJECT
+host, appldnld.apple.com, REJECT
+host, mesu.apple.com, REJECT
+host, xp.apple.com, REJECT
+host, gdmf.apple.com, REJECT
+host-suffix, iadsdk.apple.com, REJECT
+host-suffix, ads.internal.unity3d.com, REJECT
+host-suffix, ads.prd.ie.internal.unity3d.com, REJECT
+host-suffix, unityads.unity3d.com, REJECT
