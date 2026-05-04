@@ -1,6 +1,7 @@
 #!name=检测DNS泄露
 #!desc=检测DNS泄露
 
+[Rule]
 DOMAIN-SUFFIX,ippure.com,PROXY
 DOMAIN-SUFFIX,dnsleaktest.com,PROXY
 DOMAIN-SUFFIX,dnsleak.com,PROXY
