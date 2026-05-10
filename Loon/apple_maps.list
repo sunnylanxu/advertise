@@ -6,5 +6,5 @@ DOMAIN-SUFFIX,gspe19-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe12-ssl.ls.apple.com,DIRECT
 
 # === 地图相关补充 ===
-DOMAIN-SUFFIX,ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gs.apple.com,DIRECT
+# DOMAIN-SUFFIX,ls.apple.com,DIRECT
+# DOMAIN-SUFFIX,gs.apple.com,DIRECT
