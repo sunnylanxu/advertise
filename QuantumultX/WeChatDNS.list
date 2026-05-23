@@ -10,3 +10,4 @@ doh-server = /*.weixin.qq.com.cn /https://doh.pub/dns-query
 doh-server = /*.weixin.com.cn /https://doh.pub/dns-query
 doh-server = /*.tencent.com /https://doh.pub/dns-query
 doh-server = /*.weixin.com /https://doh.pub/dns-query
+
