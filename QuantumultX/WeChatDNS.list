@@ -3,10 +3,10 @@
 #!author=Androidcn
 
 [dns]
-doh-server = /qq.com /https://doh.pub/dns-query
-doh-server = /exmail.qq.com /https://doh.pub/dns-query
-doh-server = /weixin.qq.com /https://doh.pub/dns-query
-doh-server = /weixin.qq.com.cn /https://doh.pub/dns-query
-doh-server = /weixin.com.cn /https://doh.pub/dns-query
-doh-server = /tencent.com /https://doh.pub/dns-query
-doh-server = /weixin.com /https://doh.pub/dns-query
+doh-server = /.qq.com /https://doh.pub/dns-query
+doh-server = /.exmail.qq.com /https://doh.pub/dns-query
+doh-server = /.weixin.qq.com /https://doh.pub/dns-query
+doh-server = /.weixin.qq.com.cn /https://doh.pub/dns-query
+doh-server = /.weixin.com.cn /https://doh.pub/dns-query
+doh-server = /.tencent.com /https://doh.pub/dns-query
+doh-server = /.weixin.com /https://doh.pub/dns-query
