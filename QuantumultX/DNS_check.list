@@ -26,6 +26,6 @@ DOMAIN-SUFFIX,ipapi.co,PROXY
 DOMAIN,ip-scan.adspower.net,PROXY
 DOMAIN-SUFFIX,ip.net.coffee,PROXY
 DOMAIN-SUFFIX,edns.ip-api.com,PROXY
+DOMAIN-SUFFIX,fastly-analytics.com,PROXY
 #DOMAIN-SUFFIX,myip.ipip.net,PROXY
 #DOMAIN-SUFFIX,pubstatic.b0.upaiyun.com,PROXY
-#DOMAIN-SUFFIX,fastly-analytics.com,PROXY
