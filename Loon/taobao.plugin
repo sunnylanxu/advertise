@@ -2,4 +2,9 @@
 #!desc=淘宝去广告
 
 #^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/amdc\/mobileDispatch url script-response-body https://raw.githubusercontent.com/sunnylanxu/advertise/refs/heads/main/QuantumultX/amdc.js
-http-response ^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/amdc\/mobileDispatch script-path=https://raw.githubusercontent.com/sunnylanxu/advertise/refs/heads/main/QuantumultX/amdc.js
+#http-response ^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/amdc\/mobileDispatch script-path=https://raw.githubusercontent.com/sunnylanxu/advertise/refs/heads/main/QuantumultX/amdc.js
+
+
+[Script]
+
+http-response ^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/amdc\/mobileDispatch script-path=https://raw.githubusercontent.com/sunnylanxu/advertise/refs/heads/main/QuantumultX/amdc.js,requires-body=true,tag=AMDC处理
