@@ -1,6 +1,8 @@
 #国际分流
 
 
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,coinbase.com
