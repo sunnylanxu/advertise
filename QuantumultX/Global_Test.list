@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,hanimeone.me
-DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,testingcf.jsdelivr.net
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.live
@@ -26,8 +26,8 @@ DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,javchu.com
 DOMAIN-SUFFIX,av.jkforum.net
-
-
+DOMAIN-SUFFIX,www.cloudflare.com
+DOMAIN-SUFFIX,cloudflaremirrors.com
 
 
 
