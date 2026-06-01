@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,javchu.com
 DOMAIN-SUFFIX,av.jkforum.net
-DOMAIN-SUFFIX,www.cloudflare.com
+#DOMAIN-SUFFIX,www.cloudflare.com
 #DOMAIN-SUFFIX,cloudflaremirrors.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
 
