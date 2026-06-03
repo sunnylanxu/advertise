@@ -1,0 +1,3 @@
+
+URL-REGEX,"\.log\.",REJECT
+DOMAIN,ntb.lanjie100.com,REJECT
