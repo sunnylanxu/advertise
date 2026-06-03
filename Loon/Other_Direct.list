@@ -1,0 +1,12 @@
+# 一些比较容易忽视的分流
+
+DOMAIN,ad.12306.cn,DIRECT
+DOMAIN,sdkapp.uve.weibo.com,DIRECT
+
+#DOMAIN-KEYWORD,github,PROXY
+#IP-CIDR,95.161.76.0/20,PROXY
+
+DOMAIN,gg.caixin.com,DIRECT
+DOMAIN-SUFFIX,ucweb.com,DIRECT
+DOMAIN-SUFFIX,kuwo.cn,DIRECT
+
