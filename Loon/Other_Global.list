@@ -1,22 +1,22 @@
 
-DOMAIN,api.statsig.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,static.cloudflareinsights.com
-DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,arkoselabs.com
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
+DOMAIN,api.statsig.com,proxy
+DOMAIN,browser-intake-datadoghq.com,proxy
+DOMAIN,static.cloudflareinsights.com,proxy
+DOMAIN-SUFFIX,algolia.net,proxy
+DOMAIN-SUFFIX,auth0.com,proxy
+DOMAIN-SUFFIX,cloudflare.com,proxy
+DOMAIN-SUFFIX,arkoselabs.com,proxy
+DOMAIN-SUFFIX,statsigapi.net,proxy
+DOMAIN-SUFFIX,featuregates.org,proxy
+DOMAIN-SUFFIX,identrust.com,proxy
+DOMAIN-SUFFIX,intercom.io,proxy
+DOMAIN-SUFFIX,intercomcdn.com,proxy
+DOMAIN-SUFFIX,launchdarkly.com,proxy
+DOMAIN-SUFFIX,segment.io,proxy
+DOMAIN-SUFFIX,amazonaws.com,proxy
+DOMAIN-SUFFIX,wp.com,proxy
+DOMAIN-SUFFIX,sentry.io,proxy
+DOMAIN-SUFFIX,stripe.com,proxy
 
 
 DOMAIN-KEYWORD,haijiao,proxy
